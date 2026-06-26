@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiotrPy
 - 👀 I’m interested in proptech
-- 🌱 I’m currently learning evetything from zero
+- 🌱 I’m currently learning everything from zero
 - 💞️ I’m looking to collaborate on devops
 - 📫 How to reach me piotr.pyszkowski@gmail.com
 
